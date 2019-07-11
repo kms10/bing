@@ -1,3 +1,4 @@
+test GPG 
 
 # Bing Pictures Interface | 必应壁纸接口
 > :hammer: `Bing 壁纸 Api`重装上阵啦 :smile: http://bing.ioliu.cn
